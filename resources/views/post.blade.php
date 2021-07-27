@@ -16,9 +16,6 @@
         aspernatur debitis consequuntur deleniti doloribus rerum odio amet nesciunt numquam voluptas sed corporis
         inventore tempore laudantium!</p>
 
-    <h4>errore</h4>
-    <h4>errore 2</h4>
-
     <link rel="stylesheet" href="main.js">
 </body>
 
