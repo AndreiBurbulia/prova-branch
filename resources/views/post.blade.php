@@ -12,7 +12,11 @@
 <body>
     <h1>Hello</h1>
     <h3>Post Test</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil architecto officia, saepe totam expedita aspernatur debitis consequuntur deleniti doloribus rerum odio amet nesciunt numquam voluptas sed corporis inventore tempore laudantium!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil architecto officia, saepe totam expedita
+        aspernatur debitis consequuntur deleniti doloribus rerum odio amet nesciunt numquam voluptas sed corporis
+        inventore tempore laudantium!</p>
+
+    <link rel="stylesheet" href="main.js">
 </body>
 
 </html>
